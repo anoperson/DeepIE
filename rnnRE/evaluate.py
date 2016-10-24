@@ -149,7 +149,7 @@ if __name__=='__main__':
              + '.cvft2_' + str(pars['conv_feature_map2']) \
              + '.cvfm1_' + fmStr(pars['conv_win_feature_map1']) \
              + '.nm_' + str(pars['norm_lim'])
-    pars['folder'] =  'af.' + folder
+    pars['folder'] =  '' + folder
     main(pars)
 
 #+ '.fet2_' + fetStr(pars['expected_features2']) \
