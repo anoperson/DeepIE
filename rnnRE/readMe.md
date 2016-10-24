@@ -27,7 +27,7 @@ You will need to have the ACE 2005 data set in the format required by this file.
 
 This step takes the output file in step 1.
 
-There are various parameters of the model you can change directly in the evaluate.py file.
+There are various parameters of the model you can change directly in the ```evaluate.py``` file.
 
 Note that this release includes some development code, so it is more suitable for research purpose. You can use GPU to speed up.
 
