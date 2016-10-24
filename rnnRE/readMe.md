@@ -6,12 +6,14 @@ Thien Huu Nguyen, and Ralph Grishman (2016)
 
 If you use this code, please cite the following paper:
 
+```
 @inproceedings{Nguyen:16,
   author={Nguyen, Thien Huu and Grishman, Ralph}, 
   title={Combining Neural Networks and Log-linear Models to Improve Relation Extraction},
   booktitle={Proceedings of IJCAI Workshop on Deep Learning for Artificial Intelligence (DLAI)},
   year={2016}
 }
+```
 
 There are two steps to run this code:
 
