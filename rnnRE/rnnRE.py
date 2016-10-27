@@ -683,7 +683,7 @@ def train(fold='0',
           nepochs=50,
           folder='./res'):
           
-    folder = '/home/thn235/projects/minibatch/MoMatt/res/fixedExp/' + folder
+    folder = 'res/' + folder
 
     if not os.path.exists(folder): os.mkdir(folder)
 
